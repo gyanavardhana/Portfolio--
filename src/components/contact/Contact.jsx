@@ -49,8 +49,6 @@ const Contact = (props) => {
 
     return (
         <section className="contact container section" id="contact">
-            <p className="contact__details">{import.meta.env.VITE_HELLO}</p>
-            <p className="contact__details">hi</p>
             <h2 className="section__title">Get In Touch</h2>
 
             <div className="contact__container grid">
